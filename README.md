@@ -20,7 +20,7 @@ The decomposition clearly shows the seasonality of the data, as well as a clear 
 
 After performing the stationarity test and satisfying the conditions for modeling this time series, I chose a seasonal autoregressive integrated moving average (ARIMA) model, since the data indicates both autoregressive and moving average components, as well as seasonality.
 
-The best model for this dataset and the predictions are plotted in the following figure.
+The best model for this dataset and the predictions are shown in the following figure:
 
 ![5](https://github.com/lukasbarbuscak/Rail-Passenger-Miles-Forecast/blob/master/images/5.PNG)
 
