@@ -6,7 +6,13 @@ Source: U.S. Bureau of Transportation Statistics, Rail Passenger Miles [RAILPM],
 
 ![1](https://github.com/lukasbarbuscak/Rail-Passenger-Miles-Forecast/blob/master/images/1.PNG)
 
+The first graph plots the raw time series data, where the x-axis represents the time (observations were recorded monthly), while the y-axis represents the total number of rail passenger miles in the US (in millions). We can see clear fluctuations related to seasonality, with summers recording the highest number of miles, and winter the lowest.
+
+After adjusting for seasonality, we can see a general clear trend. The number of passengers gradually increase after suffering a dip around 2005, with again slightly decreasing after 2013, but holding relatively steadily. The third figure compares the not-seasonally adjusted and seasonally adjusted side-by-side.
+
 ![2](https://github.com/lukasbarbuscak/Rail-Passenger-Miles-Forecast/blob/master/images/2.PNG)
+
+The further analyze the components, 
 
 ![6](https://github.com/lukasbarbuscak/Rail-Passenger-Miles-Forecast/blob/master/images/6.PNG)
 
