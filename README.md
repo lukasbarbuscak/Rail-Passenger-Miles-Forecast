@@ -11,3 +11,5 @@ Source: U.S. Bureau of Transportation Statistics, Rail Passenger Miles [RAILPM],
 ![6](https://github.com/lukasbarbuscak/Rail-Passenger-Miles-Forecast/blob/master/images/6.PNG)
 
 ![5](https://github.com/lukasbarbuscak/Rail-Passenger-Miles-Forecast/blob/master/images/5.PNG)
+
+Using a seasonal ARIMA model, I predicted and plotted values of Rail Passenger Miles for the year 2020, and I saved the predictions to a .csv file. Future iterations of this time series analysis can introduce additional variables for a multivariate analysis, and can analyse the impact of the current recession on the transportation sector.
