@@ -4,7 +4,6 @@
 
 ![2](https://github.com/lukasbarbuscak/Rail-Passenger-Miles-Forecast/blob/master/images/2.PNG)
 
-![3](https://github.com/lukasbarbuscak/Rail-Passenger-Miles-Forecast/blob/master/images/3.PNG)
-![4](https://github.com/lukasbarbuscak/Rail-Passenger-Miles-Forecast/blob/master/images/4.PNG)
+![6](https://github.com/lukasbarbuscak/Rail-Passenger-Miles-Forecast/blob/master/images/6.PNG)
 
 ![5](https://github.com/lukasbarbuscak/Rail-Passenger-Miles-Forecast/blob/master/images/5.PNG)
