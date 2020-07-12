@@ -12,11 +12,11 @@ After adjusting for seasonality, we can see a general clear trend. The number of
 
 ![2](https://github.com/lukasbarbuscak/Rail-Passenger-Miles-Forecast/blob/master/images/2.PNG)
 
-The further analyze the components, we perform a decomposition of the time series, highlighting the patterns we can account for. 
+The further analyze the components, we perform a decomposition of the time series, highlighting the patterns we can account for (seasonality and trends), and a remainder component that contains anything else in the time series.
 
 ![6](https://github.com/lukasbarbuscak/Rail-Passenger-Miles-Forecast/blob/master/images/6.PNG)
 
-
+The decomposition clearly shows the seasonality of the data, as well as a clear trend following roughly the same shape as seasonally adjusted number of passenger miles. The remainder shows the data "minus" the trend and the seasonality components.
 
 ![5](https://github.com/lukasbarbuscak/Rail-Passenger-Miles-Forecast/blob/master/images/5.PNG)
 
