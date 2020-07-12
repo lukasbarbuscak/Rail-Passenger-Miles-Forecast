@@ -12,9 +12,11 @@ After adjusting for seasonality, we can see a general clear trend. The number of
 
 ![2](https://github.com/lukasbarbuscak/Rail-Passenger-Miles-Forecast/blob/master/images/2.PNG)
 
-The further analyze the components, 
+The further analyze the components, we perform a decomposition of the time series, highlighting the patterns we can account for. 
 
 ![6](https://github.com/lukasbarbuscak/Rail-Passenger-Miles-Forecast/blob/master/images/6.PNG)
+
+
 
 ![5](https://github.com/lukasbarbuscak/Rail-Passenger-Miles-Forecast/blob/master/images/5.PNG)
 
